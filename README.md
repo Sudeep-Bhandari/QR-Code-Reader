@@ -9,10 +9,6 @@ A simple and efficient QR Code reader built using HTML, CSS, and JavaScript. Thi
 - Lightweight and responsive design for all devices.
 - User-friendly interface.
 
-## Demo
-
-![QR Code Reader Demo](demo.gif) *(Optional: Add a demo gif or screenshot of your project)*
-
 ## Installation
 
 1. Clone this repository:
