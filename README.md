@@ -13,11 +13,11 @@ A simple and efficient QR Code reader built using HTML, CSS, and JavaScript. Thi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Sudeep-Bhandari/QR Code Reader.git
+   git clone https://github.com/Sudeep-Bhandari/QR-Code-Reader.git
 
 2. Navigate to the project directory:
    ```bash
-    cd QR Code Reader
+    cd QR-Code-Reader
    
 3. Open the index.html file in your browser to run the application.
 
