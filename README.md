@@ -32,7 +32,7 @@ A simple and efficient QR Code reader built using HTML, CSS, and JavaScript. Thi
    - CSS: Styling and layout.
    - JavaScript: Logic for scanning and decoding QR codes.
      
-Contributing
+## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork this repository.
 2. Create a new branch:
