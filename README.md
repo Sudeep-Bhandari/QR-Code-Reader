@@ -2,6 +2,11 @@
 
 A simple and efficient QR Code reader built using HTML, CSS, and JavaScript. This project allows users to scan and decode QR codes directly from their browser.
 
+##  Live Demo
+[Try it Live](https://sudeep-bhandari.github.io/QR-Code-Reader/)  
+
+---
+
 ## Features
 
 - Scan QR codes using the device camera.
